@@ -1,13 +1,3 @@
-# Word documents
 *.docx
 
-# Compiled executables
-*.exe
 
-# Object files
-*.o
-*.obj
-
-# Temporary files
-*.tmp
-*~
